@@ -1,0 +1,7 @@
+Date: 2024-09-10
+Participants: Alice, Bob
+
+Decision: Use microservices architecture.
+Rationale: Expected traffic growth.
+Alternative: Monolithic architecture.
+Assumption: Team can manage DevOps complexity.

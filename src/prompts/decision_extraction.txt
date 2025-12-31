@@ -1,0 +1,3 @@
+Extract decisions from the text and return JSON with:
+decision, rationale, alternatives, assumptions, participants, date.
+Return ONLY valid JSON.
